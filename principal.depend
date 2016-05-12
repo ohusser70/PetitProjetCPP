@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1163672970 source:c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\cercle.cpp
+	"cercle.h"
+	<iostream>
+
+1463085694 c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\cercle.h
+	"figure.h"
+
+1463085643 c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\figure.h
+
+1463086400 source:c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\figure.cpp
+	<iostream>
+	"figure.h"
+
+1163672838 source:c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\rectangle.cpp
+	<iostream>
+	"rectangle.h"
+
+1463085714 c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\rectangle.h
+	"figure.h"
+
+1257419746 source:c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\triangle.cpp
+	<iostream>
+	"triangle.h"
+
+1463085738 c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\triangle.h
+	"figure.h"
+
