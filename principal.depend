@@ -26,3 +26,16 @@
 1463085738 c:\users\olivier.husser\dropbox\git_github\petitprojetcpp\triangle.h
 	"figure.h"
 
+1463143175 source:d:\local_cours\genie_logiciel\petitprojetcpp\cercle.cpp
+	"cercle.h"
+	<iostream>
+
+1463143175 d:\local_cours\genie_logiciel\petitprojetcpp\cercle.h
+	"figure.h"
+
+1463143175 d:\local_cours\genie_logiciel\petitprojetcpp\figure.h
+
+1463143175 source:d:\local_cours\genie_logiciel\petitprojetcpp\figure.cpp
+	<iostream>
+	"figure.h"
+
