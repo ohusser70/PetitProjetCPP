@@ -1,12 +1,15 @@
 #include <iostream>
 
+
 #include "cercle.h"
 #include "rectangle.h"
 #include "triangle.h"
 
+using namespace std;
+
 int main()
 {
-    Figure mesFormes[2];
+    Figure *mesFormes[2];
 
     mesFormes[0] = new Cercle(1, 1, 5);               //coordonnées du centre et rayon
     mesFormes[1] = new Triangle(2, 2, 3, 4, -1, -1);  //coordonnées des 3 points
